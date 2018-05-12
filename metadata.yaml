@@ -1,0 +1,26 @@
+_repo: Ruth-Arnold--13-or-the-Country-Cousin_18777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byerley, Lucy
+    gutenberg_agent_id: '8243'
+    url: http://www.gutenberg.org/2009/agents/8243
+description: ''
+gutenberg_issued: '2006-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+title: "Ruth Arnold\r\nor, the Country Cousin"
+url: http://www.gutenberg.org/ebooks/18777
